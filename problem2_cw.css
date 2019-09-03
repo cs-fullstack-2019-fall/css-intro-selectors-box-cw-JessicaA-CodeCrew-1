@@ -1,0 +1,36 @@
+
+
+/*Give the p tags a gray background, and a right margin of 10%.
+Make the class "secondParagraph" have a background color of blue, and horizontally centered on the page.
+Create selectors to set the background of the first, third, and fourth classes to pink with top and bottom padding of 10px.
+Create a selector that styles the text My First Jibberish Post! that sets block properties as follows:*/
+
+p{
+    background: gray;
+    margin-right: 10%;
+}
+
+.secondparagraph{
+    background: blue;
+    text-align: center;
+
+}
+
+.post{
+    background: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.quote{
+    background: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.secondparagraph2{
+    background: pink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
